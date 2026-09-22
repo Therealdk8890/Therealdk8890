@@ -1,16 +1,19 @@
-## Hi there 👋
+# Danny
 
-<!--
-**Therealdk8890/Therealdk8890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Local-first tools for verifiable AI.
 
-Here are some ideas to get you started:
+## Start here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[dpk-gate-demo](https://github.com/Therealdk8890/dpk-gate-demo)** — fail the PR when the agent skips `verify`, even if the answer still looks right.
+
+Same user-visible output. Output tests, evals, and OTel would pass. The path gate fails.
+
+Green run: [gate #2](https://github.com/Therealdk8890/dpk-gate-demo/actions/runs/35685130719)
+
+## Libraries
+
+- [DProvenanceKitPython](https://github.com/Therealdk8890/DProvenanceKitPython) — Python SDK + CLI
+- [dprovenancekit-action](https://github.com/Therealdk8890/dprovenancekit-action) — GitHub Action
+- [DProvenanceKit](https://github.com/Therealdk8890/DProvenanceKit) — Swift / on-device attestation
+
+Site: [dprovenance.dev](https://dprovenance.dev)

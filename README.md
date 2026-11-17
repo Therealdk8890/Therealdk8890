@@ -1,4 +1,4 @@
-# Danny — Verifiable AI & Agent Security
+# Danny - Verifiable AI & Agent Security
 
 Building **local-first security infrastructure for autonomous AI agents**: evidence you can inspect, authority you can revoke, and enforcement outside the agent's control.
 
